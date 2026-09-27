@@ -1,4 +1,4 @@
-// Structurally inspired by the canonical examples in man 3 getline and man 3 strtok_r.
+// Structurally inspired by the canonical examples in man exce and man getline and man strrchr and man fork and man waitpid.
 #define _POSIX_C_SOURCE 200809
 #include <stdio.h>
 #include <stdlib.h>
